@@ -4,7 +4,7 @@ data <- data.frame(
   Department = factor(c("Sales", "HR", "IT", "Marketing", "Sales", "HR", "IT", "Marketing", "Sales", "HR",
                         "IT", "Marketing", "Sales", "HR", "IT", "Marketing", "Sales", "HR", "IT", "Marketing")),
   Performance = c(78, 82, 90, 75, 85, 78, 91, 80, 88, 85,76, 83, 92, 79, 86, 81, 89, 84, 94, 82)
-)
+) 
 
 str(data)
 
